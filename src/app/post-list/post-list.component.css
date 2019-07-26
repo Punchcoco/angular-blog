@@ -1,0 +1,17 @@
+h2, p, button{
+  font-weight: bold;
+}
+h4{
+  color: grey;
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+  top:5px;
+  right:5px;
+}
+
+div{
+  position: absolute;
+  right:5px;
+  bottom: 10px;
+}
